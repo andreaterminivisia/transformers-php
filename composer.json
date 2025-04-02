@@ -11,7 +11,7 @@
     "php",
     "codewithkyrian"
   ],
-  "type": "library",
+  "type": "package",
   "require": {
     "php": "^8.1",
     "ext-ffi": "*",
